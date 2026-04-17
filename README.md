@@ -1,4 +1,4 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST5HexkwH2YP8hIu9LMl3_fCRRc54rpSNx9g&s
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST5HexkwH2YP8hIu9LMl3_fCRRc54rpSNx9g&s)
 # Hola, soy Bryan 👋
 
 Experiencia en Automatizacion de procesos, analisis y ciencia de datos
