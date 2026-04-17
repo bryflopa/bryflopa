@@ -1,12 +1,13 @@
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST5HexkwH2YP8hIu9LMl3_fCRRc54rpSNx9g&s
 # Hola, soy Bryan 👋
 
 Experiencia en Automatizacion de procesos, analisis y ciencia de datos
 
-🎓 Ingeniero de Sistemas
-🎓 Magíster en Ciencia de Datos  
-🎓 Especialista en Gerencia de Productividad e Innovacion (En Curso)
-💻 Data Scientist | Machine Learning | RPA  
-🚀 Apasionado por la automatización y el análisis de datos  
+- 🎓 Ingeniero de Sistemas
+- 🎓 Magíster en Ciencia de Datos  
+- 🎓 Especialista en Gerencia de Productividad e Innovacion (En Curso)
+- 💻 Data Scientist | Machine Learning | RPA  
+- 🚀 Apasionado por la automatización y el análisis de datos  
 
 ## 🧠 Tecnologías
 - Python, SQL, PyTorch, Pandas, Scikit-Learn
