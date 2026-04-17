@@ -1,4 +1,4 @@
-![](https://images.unsplash.com/photo-1722080826167-4ea87368cbc5?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zm9uZG8lMjBkZSUyMHBhbnRhbGxhJTIwZGUlMjBwcm9ncmFtYWNpb258ZW58MHx8MHx8fDA%3D)
+![]([https://images.unsplash.com/photo-1722080826167-4ea87368cbc5?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Zm9uZG8lMjBkZSUyMHBhbnRhbGxhJTIwZGUlMjBwcm9ncmFtYWNpb258ZW58MHx8MHx8fDA%3D](https://img.freepik.com/foto-gratis/programacion-script-texto-codificacion-word_53876-121207.jpg?semt=ais_hybrid&w=740&q=80))
 # Hola, soy Bryan 👋
 
 Experiencia en Automatizacion de procesos, analisis y ciencia de datos
