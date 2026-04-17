@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Bryan 👋
 
-<!--
-**bryflopa/bryflopa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experiencia en Automatizacion de procesos, analisis y ciencia de datos
 
-Here are some ideas to get you started:
+🎓 Ingeniero de Sistemas
+🎓 Magíster en Ciencia de Datos  
+🎓 Especialista en Gerencia de Productividad e Innovacion (En Curso)
+💻 Data Scientist | Machine Learning | RPA  
+🚀 Apasionado por la automatización y el análisis de datos  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tecnologías
+- Python, SQL, PyTorch, Pandas, Scikit-Learn
+- Uipath, Automation Anywhere
+- Power BI, Looker Studio
+
+## 📫 Contacto
+- LinkedIn: linkedin.com/in/bryan-stiven-florez-pazos-44a0b6182
+- Correo: brayan19988@hotmail.com
